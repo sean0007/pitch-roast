@@ -46,6 +46,7 @@ For fun and practice. Not investment, legal, or business advice. Scores come fro
 ## Other free tools by the same maker
 - Founder Scorecard: https://fund-fix-flee.vercel.app
 - Japan Trip Brain: https://japan-trip-brain.vercel.app
+- Japan Tax-Free Refund Checker: https://japan-tax-free-refund.vercel.app
 - Hotel OTA Commission Calculator: https://hotel-ota-calculator.vercel.app
 - SaaS Bill Cutter: https://saas-bill-cutter.vercel.app
 - Ads Risk Check: https://ads-risk-check.vercel.app
