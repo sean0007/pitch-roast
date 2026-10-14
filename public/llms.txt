@@ -49,6 +49,7 @@ For fun and practice. Not investment, legal, or business advice. Scores come fro
 - Japan Tax-Free Refund Checker: https://japan-tax-free-refund.vercel.app
 - Japan Visa Fee Calculator: https://japan-visa-fee.vercel.app
 - Japan Luggage Check: https://japan-luggage.vercel.app
+- Kyushu Travel Discount: https://kyushu-travel-discount.vercel.app
 - Hotel OTA Commission Calculator: https://hotel-ota-calculator.vercel.app
 - SaaS Bill Cutter: https://saas-bill-cutter.vercel.app
 - Ads Risk Check: https://ads-risk-check.vercel.app
