@@ -54,6 +54,7 @@ For fun and practice. Not investment, legal, or business advice. Scores come fro
 - Japan TB Screening (JPETS): https://japan-tb-screening.vercel.app
 - Japan Dual Pricing Check: https://japan-dual-pricing.vercel.app
 - Japan Alert Decoder: https://japan-alert-decoder.vercel.app
+- Japan PR Guideline Check: https://japan-pr-check.vercel.app
 - Hotel OTA Commission Calculator: https://hotel-ota-calculator.vercel.app
 - SaaS Bill Cutter: https://saas-bill-cutter.vercel.app
 - Ads Risk Check: https://ads-risk-check.vercel.app
