@@ -57,6 +57,7 @@ For fun and practice. Not investment, legal, or business advice. Scores come fro
 - Japan PR Guideline Check: https://japan-pr-check.vercel.app
 - Japan International Postage 2027 (Japan Post international mail prices now vs from 2027-02-01: EMS, parcels, small packets, letters, postcards; keyless API): https://japan-intl-postage.vercel.app
 - Japan Re-entry Deadline Check (when a foreign resident must be back in Japan: deemed re-entry, special re-entry, re-entry permits, renewal special period; keyless API): https://japan-reentry-check.vercel.app
+- Japan Overseas Dependents Check (claim a relative living outside Japan as a dependent: age rules, ¥380,000 remittance test, 2026 income limit, deduction; keyless API): https://japan-overseas-dependents.vercel.app
 - Hotel OTA Commission Calculator: https://hotel-ota-calculator.vercel.app
 - SaaS Bill Cutter: https://saas-bill-cutter.vercel.app
 - Ads Risk Check: https://ads-risk-check.vercel.app
